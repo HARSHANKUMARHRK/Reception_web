@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+   <body>
+   
+    <embed src= {{ pdf_locs | safe }} type="application/pdf" width="100%" height="750px" />
+    <button id="btn" onclick="inputValue(event)" style=" width:150px ;background-color:#4eb5ff;color:#0c2f8d">SUBMIT</button>
+
+</body>
+<script>
+    document.querySelector("#btn").addEventListener('click',function(event){
+        
+            window.location.replace("/success")
+        })
+    
+    </script>
+</html>
+

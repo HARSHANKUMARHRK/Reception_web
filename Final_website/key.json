@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "dubakoor-project",
+    "private_key_id": "67868b6d28dd0159e3e0191b4d919525c750b114",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvQlt7sUNYSGND\n7LPWypHOquCxmwHPND0OMoHtdK5chdSDr8XR0FjFFzs6jUpcz4dvN+SBNdbUXJ+G\nysBmeM96iDgELf4fll6EyCU3y7PDyROmw9A9Uh4XLKNy/jf2xU86usIfOzc4fgvw\niHF2Sge4oSf9XB7v44pTCnVIKq6E3oRxDWFxXkD3oQ+lWt3sXfmd8GAx72zCAu3f\n2gI0QNGt9ZEyttlF2qlx3yj7DvbUfTrAGNijRnzFfMF3K4IhNH4TTh+Cd6OHoRdx\n4R0/h3wSFmgplCuYbMBwl9lFzyAEQhgGijx7D/qy1DaWZHPfnR+Y5GqChlA8W0ra\nSaUYalQtAgMBAAECggEAURrDzE+hq0LAkUgCh6Vx6XKhjf9+TF3P3XiZMQLcx9t1\nF8XppWmmEvtnwPZu0dmGQv1aJUN9mgQNHStJ84H3/iv4xFJmdka3kfovYw1FMRcm\nHXgjr6UHYNEbCNXFn1D7E+ImgJ5+NQn7y4HRBB1JSnNl1rVhacFim4BM+yspXTn4\nnoXeKkw8UijY8WgvdoinhudIq6pSnVV54eSHsjIJ3s12hU+j+1ZnT/K2/WRjwhmt\n59m/rFyvRwWqx4B8Ur7aOwkGWEo+R9lxMKOoZ9ReTtHhKCIzgfME9McxkWHJmUNz\n0r2C0F7SEkPJL5Pbc1Iaqu1j08bzhsMHQHquE++i3wKBgQDzX+fSeBsA7CpfuLnl\nxhrqFZuw86tDVoRCuBJhhh54jQtg1QNzAYNRmxb+JVFgF5vpG1aqAeXYhoxATqKt\ngRluatiY/oOHkrp17xR1dlhA7YCRq3J9oA2g75cV0eU7WYZS5nIag0wQTlUvR9jw\nrGsllP9PIIfknXTT1+LzXYUoSwKBgQC4WdtWBYC6f3UGAs92gx6Otg+dv/gh18Yi\nyhlhnLF646ou22SXvC181R9/WTz9h/+XmOs50V+qXR/m4epnmclE3K009xdKUUn4\nudTJsFpvRKRsh5lneHH471ZGf0jmZq62EcNUpvnrxrHWx/z2Vi6sDxh1k6DTN+ZP\nAO7ZjI6aZwKBgG5eywo278AeWiUo6B1dFy2beQzppHyYSsjbI3LY2Q7AoC1czQCl\n6gDjPa0qDVpvuoQfotDcpXjpo8cyIjJfPsJFcE8J9WpRT4BWWUff0Kw5STpGr1hr\ncmLO5Qy/MJ8WvYTw/0Qo0SD/9T/I7IhRGRJlHNesoBQ8mBPObx0BB3c7AoGATKwK\nnj9Rp79E84gNsxObjO1Jl2l1ENZGMMfvQHrEEgFIEY7rynPYU1fsbrG1vRhoBCv0\ngSqEaD2s/ACv1gDPBdXmL+YoiJ9AbbMUPgIbyrU40W6gLbmZZVhdgJqFvlWsikre\n+4Eq5pXP9y1cFzQG20a3/Ia218IjBm6z6EUeNjcCgYEAvRYRMH5z6eCMJp5k+y5o\nmgD13sybv8MMym/t9nfYiLCZejY536B6SuKDVYzk/J8dKwv/RFPZkxecFabCGuVk\nA+VoK0b4Szhog61wV05efaB0i8q1DX8tHl5wHTSkPVPz8en3Muwi40NRHb6+GagX\n/bC8Qe6YeDnEdQSvhVbteDg=\n-----END PRIVATE KEY-----\n",
+    "client_email": "sivasaran-test@dubakoor-project.iam.gserviceaccount.com",
+    "client_id": "101461406194609861118",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sivasaran-test%40dubakoor-project.iam.gserviceaccount.com"
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<body>
+    
+<div class="container">
+   <img src="../static/img/Stjoseph.jpeg" alt="" width="500px" ></a><br><hr>
+    <div class="row">
+        <div class="col-lg-8  offset-lg-2">
+
+			
+            <h2 class="mt-5">WEBCAM</h2>
+			<form method="post" action="{{ url_for('tasks') }}">
+			<input type="submit" value="Stop/Start" name="stop" />
+			<input type="submit" value="Capture" name="click"/> 
+            <button id="btn" onclick="inputValue(event)" style="background-color:#53760D;color:#D0F18F">SUBMIT</button>
+			</form>
+            <img src="{{ url_for('video_feed') }}" height="80%">
+            
+           
+	                
+        </div>
+    </div>
+</div>
+</body>
+<script>
+     document.querySelector("#btn").addEventListener('click',function(event){
+            event.preventDefault();
+            fetch("/home").then(res=>{
+                window.location.replace("home")
+            })
+    })
+</script>
+</html>
